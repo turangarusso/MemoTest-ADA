@@ -18,7 +18,8 @@
   <a href="#license">License</a>
 </p>
 
-![App Store Template - MC1 - AliBaba&The4Thieves .pdf](https://github.com/turangarusso/LegionLauncher/files/10252307/App.Store.Template.-.MC1.-.AliBaba.The4Thieves.pdf)
+![MemoPNG](https://user-images.githubusercontent.com/113531412/208549829-4f8f0a13-4ceb-47f8-ae49-17910ea8b8d5.PNG)
+
 
 ## Key Features
 
